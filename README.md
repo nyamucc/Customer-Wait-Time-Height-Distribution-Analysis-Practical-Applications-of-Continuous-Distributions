@@ -41,7 +41,7 @@ Generated graphs from the project:
    pip install numpy matplotlib scipy
    python continuous_distributions.py
 
- y
+
 
 
 
