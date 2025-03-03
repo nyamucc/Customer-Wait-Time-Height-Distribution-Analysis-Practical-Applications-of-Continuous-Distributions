@@ -24,7 +24,7 @@ to model real-world phenomena.
 Generated graphs from the project:
 
 ### **1️⃣ Exponential Distribution (Wait Times)**
-![Exponential Distribution](![exponential](https://github.com/user-attachments/assets/b85ff8f5-334e-42a8-9ebf-4a27fa15df50)
+![Exponential Distribution](![image](https://github.com/user-attachments/assets/3f94c10c-4a52-4acf-99d0-e676fba19e8d)
 )
 
 
