@@ -19,3 +19,7 @@ to model real-world phenomena.
 - Real-World Use: The Normal Distribution is one of the most commonly encountered distributions in natural and social sciences, often used to model traits like height, weight, test scores, and many other variables in a population.
 
 - Project Use: We generate synthetic customer heights based on the Normal Distribution with a mean of 170 cm and a standard deviation of 10 cm.
+
+  ## 📊 Visualization
+Generated graphs from the project:
+
