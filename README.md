@@ -27,7 +27,7 @@ Generated graphs from the project:
 ![Exponential Distribution](https://github.com/nyamucc/Customer-Wait-Time-Height-Distribution-Analysis-Practical-Applications-of-Continuous-Distributions/commit/12874471f416e113bb2b7538e7895ef1451d2552)
 
 ### **2️⃣ Normal Distribution (Heights)**
-![Normal Distribution]()
+![Normal Distribution](https://github.com/nyamucc/Customer-Wait-Time-Height-Distribution-Analysis-Practical-Applications-of-Continuous-Distributions/blob/main/normal.png)
 
 
 
