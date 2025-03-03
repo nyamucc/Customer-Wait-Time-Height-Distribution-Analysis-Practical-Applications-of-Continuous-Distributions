@@ -36,6 +36,7 @@ Generated graphs from the project:
    ```bash
    git clone https://github.com/nyamucc/Customer-Wait-Time-Height-Distribution-Analysis-Practical-Applications-of-Continuous-Distributions.git
    cd Customer-Wait-Time-Height-Distribution-Analysis-Practical-Applications-of-Continuous-Distributions
+   pip install numpy matplotlib scipy
 
  Installation and Usage
 
