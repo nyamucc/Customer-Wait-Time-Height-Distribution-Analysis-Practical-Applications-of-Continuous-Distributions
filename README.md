@@ -42,7 +42,17 @@ Generated graphs from the project:
    python continuous_distributions.py
 
 
+📌 Results & Insights
 
+Wait times follow an Exponential Distribution (confirmed via KS test).
+Heights follow a Normal Distribution (confirmed via Shapiro-Wilk test).
+Exponential distributions are right-skewed, while normal distributions are symmetric.
+
+📢 Connect With Me
+
+💡 Feel free to star ⭐ this repo if you found it useful!
+📧 Contact: [cherrynyamu@gmail.com]
+🔗 LinkedIn: [www.linkedin.com/in/charity-nyamuchengwa-766477183]
 
 
 
