@@ -30,4 +30,12 @@ Generated graphs from the project:
 ![Normal Distribution](https://github.com/nyamucc/Customer-Wait-Time-Height-Distribution-Analysis-Practical-Applications-of-Continuous-Distributions/blob/main/normal.png)
 
 
+## 🚀 How to Run the Project
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/nyamucc/Customer-Wait-Time-Height-Distribution-Analysis-Practical-Applications-of-Continuous-Distributions.git
+   cd Customer-Wait-Time-Height-Distribution-Analysis-Practical-Applications-of-Continuous-Distributions
+
+
 
