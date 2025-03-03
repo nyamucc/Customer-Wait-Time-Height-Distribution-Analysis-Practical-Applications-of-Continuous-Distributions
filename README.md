@@ -23,3 +23,6 @@ to model real-world phenomena.
   ## 📊 Visualization
 Generated graphs from the project:
 
+### **1️⃣ Exponential Distribution (Wait Times)**
+
+
