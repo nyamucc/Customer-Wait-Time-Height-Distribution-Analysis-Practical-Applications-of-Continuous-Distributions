@@ -8,7 +8,7 @@ distribution fitting, hypothesis testing, and visualization, this project demons
 to model real-world phenomena.
 
 ## Key Areas of Application
-### Exponential Distribution for Customer Wait Times:
+📌 **Exponential Distribution (Customer Wait Times)**
 Real-World Use: The Exponential Distribution is commonly used in queuing theory and operations research to model the waiting times in systems like call centers, hospitals, and customer service lines. By analyzing customer wait times, businesses can improve service efficiency and optimize resources.
 
 Project Use: We generate synthetic wait times based on the Exponential Distribution to simulate customer waiting times, with a mean of 5 minutes.
