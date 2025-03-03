@@ -37,5 +37,17 @@ Generated graphs from the project:
    git clone https://github.com/nyamucc/Customer-Wait-Time-Height-Distribution-Analysis-Practical-Applications-of-Continuous-Distributions.git
    cd Customer-Wait-Time-Height-Distribution-Analysis-Practical-Applications-of-Continuous-Distributions
 
+ Installation and Usage
+1️⃣ Install Dependencies
+
+First, install the required Python libraries using pip:
+
+pip install numpy matplotlib scipy
+2️⃣ Run the Script
+
+Execute the script using:
+
+python continuous_distributions.py
+
 
 
