@@ -1,6 +1,5 @@
 # Customer-Wait-Time-Height-Distribution-Analysis-Practical-Applications-of-Continuous-Distributions
-
-#### Exploring Continuous Distributions (Exponential & Normal) in Data Science
+### Exploring Continuous Distributions (Exponential & Normal) in Data Science
 
 ## Project Overview
 In this project, we explore the practical applications of continuous probability distributions by using synthetic datasets. 
